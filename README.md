@@ -8,6 +8,9 @@ This interactive **Power BI dashboard** analyzes the implementation of **renewab
 **Business Question:**  
 > How are renewable energies being implemented across different countries and regions, and what geographic factors influence their adoption?
 
+**View the Dashboard Online 🔗:**  
+[Click here to open the dashboard in your browser](https://app.powerbi.com/view?r=eyJrIjoiZWIzZWYzMjYtYmExOS00YTllLWIwZmEtMzdiNDJkNjE3YTFiIiwidCI6IjZmZDQ4ZjQxLWFmODEtNDVhNS05YzFlLWUzOTkwYmMyN2U3YyIsImMiOjR9&pageName=85b5f197401b7d1e4009)
+
 ## Key Features
 - **Time Coverage:** Data from 2020 to 2024.  
 - **Regional Comparison:** Urban vs. rural areas.  
@@ -32,7 +35,7 @@ Provide a **fast and visual tool** to:
 - **International renewable energy databases (2020-2024)**  
 
 ## Dashboard Usage
-1. Open the `.pbix` file in Power BI.  
+1. Open the `.pbix` file in Power BI **or view it online using the link above**.  
 2. Apply filters by country, continent, or area type.  
 3. Explore maps and charts to identify patterns, trends, and comparisons.  
 
@@ -42,7 +45,7 @@ Provide a **fast and visual tool** to:
 
   <img src="https://github.com/user-attachments/assets/71da4825-e8b2-4cf0-82b6-82a96f1b3628" alt="Global Map" width="430" height="300"/>
   
-  <img src="https://github.com/user-attachments/assets/f20ffb7f-bbb0-447f-acc5-82e65fc340a1" alt="Comparative Chart" width="400" height="250"/>
+  <img src="https://github.com/user-attachments/assets/f20ffb7f-bbb0-447f-acc5-82e65fc340a1" alt="Comparative Chart" width="400" height="240"/>
 
 </div>
 
