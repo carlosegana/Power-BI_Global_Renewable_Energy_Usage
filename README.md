@@ -43,9 +43,9 @@ Provide a **fast and visual tool** to:
 <!-- Images aligned side by side with identical size -->
 <div style="display: flex; gap: 10px;">
 
-  <img src="https://github.com/user-attachments/assets/71da4825-e8b2-4cf0-82b6-82a96f1b3628" alt="Global Map" width="430" height="300"/>
+  <img src="https://github.com/user-attachments/assets/71da4825-e8b2-4cf0-82b6-82a96f1b3628" alt="Global Map" width="230" height="180"/>
   
-  <img src="https://github.com/user-attachments/assets/f20ffb7f-bbb0-447f-acc5-82e65fc340a1" alt="Comparative Chart" width="400" height="240"/>
+  <img src="https://github.com/user-attachments/assets/f20ffb7f-bbb0-447f-acc5-82e65fc340a1" alt="Comparative Chart" width="200" height="200"/>
 
 </div>
 
